@@ -7,6 +7,6 @@ https://docs.google.com/spreadsheets/d/1QFhUTrj4nYzijRsxLT9iyvCFa7maTGbfApOuu3Y3
 Furthermore, there are working/draft documents on some of the issues discussed here:
 * Initial collection of pros and cons https://docs.google.com/document/d/17vmLYi1CQ28tzdhjgCRLPkmLEInLsPcSHPnXENGrbh4/edit?usp=sharing
 * Shared elements analysis https://docs.google.com/document/d/1GpvBaYy_-SjaYMnzLtIvYyXKWI5b_zsKKJPFbW75ffc/edit?usp=sharing
-* Gathering some general thought https://docs.google.com/document/d/14eooQAS5EPUeOzmvv2hOwzIUl8DkdMn7IyzRhsoWoe4/edit?usp=sharing
+* Gathering some general thoughts https://docs.google.com/document/d/14eooQAS5EPUeOzmvv2hOwzIUl8DkdMn7IyzRhsoWoe4/edit?usp=sharing
 
 
