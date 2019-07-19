@@ -1,12 +1,14 @@
 # SharedSchema
 Repository for work with shared schemas among the standards
 
-The work of this subgroup is based mainly on the following comparison of the current status of EAD3 and EAC-CPF (as per second half of 2018):
-https://docs.google.com/spreadsheets/d/1QFhUTrj4nYzijRsxLT9iyvCFa7maTGbfApOuu3Y30ts/edit?usp=sharing
+The work of this subgroup (January to July 2019) has been summarised in its report to TS-EAS submitted on 22 July 2019:
+[...link will be added by 22 July 2019]
 
-Furthermore, there are working/draft documents on some of the issues discussed here:
-* Initial collection of pros and cons https://docs.google.com/document/d/17vmLYi1CQ28tzdhjgCRLPkmLEInLsPcSHPnXENGrbh4/edit?usp=sharing
-* Shared elements analysis https://docs.google.com/document/d/1GpvBaYy_-SjaYMnzLtIvYyXKWI5b_zsKKJPFbW75ffc/edit?usp=sharing
-* Gathering some general thoughts https://docs.google.com/document/d/14eooQAS5EPUeOzmvv2hOwzIUl8DkdMn7IyzRhsoWoe4/edit?usp=sharing
+Supporting documentation linked in the report can also be viewed directly following these links: 
+
+* Comparison of the current status of EAD3 and EAC-CPF (as per second half of 2018): https://docs.google.com/spreadsheets/d/13XT1lHfhEJiZ06KVeYtRu0f3ke20_9vZKoRuzKM-Ll0/edit?usp=sharing
+* Detailed analysis of shared elements in EAD3 and EAC-CPF (as per second half of 2018): https://docs.google.com/document/d/18I7C9UiK8OYJ2ASQqAecRcP4fH92rvXV3yp924WZkD0/edit?usp=sharing
+* Overview of similar elements in EAD3 and EAC-CPF (as per second half of 2018): https://docs.google.com/document/d/19iKmg4KkBwBBjmfo9AfG78fk4ltuvtpdpklBQcczkK4/edit?usp=sharing
+* Technical considerations of a shared schema approach: https://docs.google.com/document/d/1amJ26HWf9ozG3wt_MOMt5qF7-twpISL9Yc430F1hYDc/edit?usp=sharing
 
 
