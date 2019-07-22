@@ -2,7 +2,7 @@
 Repository for work with shared schemas among the standards
 
 The work of this subgroup (January to July 2019) has been summarised in its report to TS-EAS submitted on 22 July 2019:
-[...link will be added by 22 July 2019]
+https://docs.google.com/document/d/1EOweYvPolqVBAkJhLFzxIHxqQdtIOJAPS18dGI7IBRk/edit?usp=sharing
 
 Supporting documentation linked in the report can also be viewed directly following these links: 
 
