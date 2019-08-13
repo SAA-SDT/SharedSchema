@@ -1,7 +1,11 @@
-# SharedSchema
-Repository for work with shared schemas among the standards
+# Shared Schema Ad hoc Working Group
+Repository for work with a shared schema among the standards
 
-The work of this subgroup (January to July 2019) has been summarised in its report to TS-EAS submitted on 22 July 2019:
+# Update (August 2019)
+TS-EAS, on their meeting on 2 August 2019, decided that the work of the Shared Schema Ad hoc Working Group will be continued by the Schemas subteam. Documentation on the Schemas subteam's work can be found here: https://github.com/SAA-SDT/TS-EAS-subteam-notes/tree/master/schemas-subteam
+
+# Update (July 2019)
+The work of this group (January to July 2019) has been summarised in its report to TS-EAS submitted on 22 July 2019:
 https://docs.google.com/document/d/1EOweYvPolqVBAkJhLFzxIHxqQdtIOJAPS18dGI7IBRk/edit?usp=sharing
 
 Supporting documentation linked in the report can also be viewed directly following these links: 
